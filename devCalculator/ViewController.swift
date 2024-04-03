@@ -33,9 +33,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func calBtn(_ sender: Any) {
-        AppCenter.start(withAppSecret: "dcb25d33-632d-4c7b-88d3-e7ba45b1b3ef", services:[
-          Crashes.self
-        ])
+       
         
     }
     
