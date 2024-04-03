@@ -34,6 +34,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func calBtn(_ sender: Any) {
+        print("rahul2")
        
         
     }
