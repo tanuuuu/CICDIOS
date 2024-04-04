@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7509826D-818F-4C3F-A60A-DD274DA3B925</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7509826D-818F-4C3F-A60A-DD274DA3B925.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>devCalculator Workspace</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>devCalculator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace devCalculator for testing with scheme devCalculator</string>
+			<key>timeStartedRecording</key>
+			<real>733907469.25101805</real>
+			<key>timeStoppedRecording</key>
+			<real>733907483.39363801</real>
+			<key>title</key>
+			<string>Building workspace devCalculator for testing with scheme devCalculator</string>
+			<key>uniqueIdentifier</key>
+			<string>7509826D-818F-4C3F-A60A-DD274DA3B925</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

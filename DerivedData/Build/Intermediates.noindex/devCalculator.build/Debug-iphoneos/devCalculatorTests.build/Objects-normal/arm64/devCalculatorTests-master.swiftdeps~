@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "6dd1f8c333a622f7fec60485a941cde57ad7c98a839be37eabc8923b85197050"
+build_start_time: [1712214679, 931549072]
+build_end_time: [1712214679, 949146986]
+inputs:
+  "/Users/forushealth/Desktop/devCalculator/devCalculatorTests/devCalculatorTests.swift": !private [1712074582, 332730531]

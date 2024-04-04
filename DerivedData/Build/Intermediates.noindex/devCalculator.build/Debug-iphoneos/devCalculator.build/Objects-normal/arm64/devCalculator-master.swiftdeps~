@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "b200dd7e45d66a1d5aa278ccf52fa2c7f821863c6f44e4821caec6f06f99aa85"
+build_start_time: [1712214676, 296855926]
+build_end_time: [1712214676, 322577953]
+inputs:
+  "/Users/forushealth/Desktop/devCalculator/devCalculator/AppDelegate.swift": !private [1712133957, 803535938]
+  "/Users/forushealth/Desktop/devCalculator/devCalculator/SceneDelegate.swift": !private [1712074581, 131407737]
+  "/Users/forushealth/Desktop/devCalculator/devCalculator/ViewController.swift": !private [1712133957, 804729461]

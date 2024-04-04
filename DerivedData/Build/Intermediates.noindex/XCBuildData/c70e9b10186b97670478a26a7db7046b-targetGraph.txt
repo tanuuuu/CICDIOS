@@ -1,0 +1,16 @@
+Target dependency graph (7 targets)
+AppCenter in Pods, no dependencies
+Pods-devCalculator in Pods, depends on:
+AppCenter in Pods (explicit)
+devCalculator in devCalculator, depends on:
+Pods-devCalculator in Pods (implicit dependency via file 'Pods_devCalculator.framework' in build phase 'Link Binary')
+Pods-devCalculatorTests in Pods, depends on:
+Pods-devCalculator in Pods (explicit)
+devCalculatorTests in devCalculator, depends on:
+devCalculator in devCalculator (explicit)
+Pods-devCalculatorTests in Pods (implicit dependency via file 'Pods_devCalculatorTests.framework' in build phase 'Link Binary')
+Pods-devCalculator-devCalculatorUITests in Pods, depends on:
+AppCenter in Pods (explicit)
+devCalculatorUITests in devCalculator, depends on:
+devCalculator in devCalculator (explicit)
+Pods-devCalculator-devCalculatorUITests in Pods (implicit dependency via file 'Pods_devCalculator_devCalculatorUITests.framework' in build phase 'Link Binary')
