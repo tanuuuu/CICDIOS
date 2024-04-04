@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>E7L73FUT5M.com.forus.demo.devCalculatorUITests.xctrunner</string>
+	<string>E7L73FUT5M.com.forus.demo1.devCalculatorUITests.xctrunner</string>
 	<key>com.apple.developer.team-identifier</key>
 	<string>E7L73FUT5M</string>
 	<key>get-task-allow</key>
 	<true/>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>E7L73FUT5M.com.forus.demo.devCalculatorUITests.xctrunner</string>
+		<string>E7L73FUT5M.com.forus.demo1.devCalculatorUITests.xctrunner</string>
 	</array>
 </dict>
 </plist>
