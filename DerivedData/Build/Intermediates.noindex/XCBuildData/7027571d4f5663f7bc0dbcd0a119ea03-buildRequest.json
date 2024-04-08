@@ -1,0 +1,76 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "b29d294f8daf06edfed7882800802b198c088f58edbbe0aaec459835a0e179a0"
+    },
+    {
+      "guid" : "b29d294f8daf06edfed7882800802b19e16c3bc2dd8ba56c0078201680db2685"
+    },
+    {
+      "guid" : "b29d294f8daf06edfed7882800802b191809e8f13c3221007342ca8d2c33e533"
+    }
+  ],
+  "containerPath" : "/Users/forushealth/Desktop/devCalculator/devCalculator.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos16.1",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/forushealth/Desktop/devCalculator/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/forushealth/Desktop/devCalculator/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/forushealth/Desktop/devCalculator/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/forushealth/Desktop/devCalculator/DerivedData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/forushealth/Desktop/devCalculator/DerivedData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/forushealth/Desktop/devCalculator/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "SDKROOT" : "iphoneos16.1"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "80",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "test",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
